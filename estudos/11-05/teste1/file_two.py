@@ -1,0 +1,1 @@
+print(f'__name__ no arquivo dois esta definido como: {__name__}')
