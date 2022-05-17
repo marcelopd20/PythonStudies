@@ -17,9 +17,7 @@ Saída
 Para cada arquivo da entrada, terá um arquivo de saída. O arquivo de saída tem três linhas da forma descrita nos itens
 6, 7 e 8. Conforme mostra o exemplo de saída a seguir. Imprima os valores de ponto flutuante com 6 casas decimais após
 a vírgula."""
-a = input().split()
-t = a[3]
-for c in range(4, len(a)):
-    t += ' ' + a[c]
-a[3] = t
-print(f'{a[0]}{a[1]}{a[2]}{a[3]}\n{a[0]} {a[1]} {a[2]} {a[3]}\n{a[0]:>10}{a[1]} {a[2]} {a[3]}')
+import struct
+a = input().split(' ', 3)
+a[1] = struct.unpack('f', struct.pack('f', float(a[1])))[0]
+print(f'{a[0]}{a[1]:.6f}{a[2]}{a[3]}\n{a[0]}\t{a[1]:.6f}\t{a[2]}\t{a[3]}\n{a[0]:>10}{a[1]:>10.6f}{a[2]:>10}{a[3]:>10}')
