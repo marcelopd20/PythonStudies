@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/URI/2763 - Entrada e Saída CPF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/URI/2764 - Entrada e Saída de Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/URI/2765 - Entrada e Saída com Virgula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/URI/2766 - Entrada e Saída Lendo e Pulando Nomes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/ColorDetection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/CorEForma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/ShapeAndColor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/SquareDetection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/imgs/circuloverde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/imgs/quadradoverde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/imgs/quadradovermelho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/testes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioCorEForma/testes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Division.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Find the Runner-Up Score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/If-Else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/List Comprehensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/List Comprehensions1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Nested Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Operadores Aritmeticos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Print Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Say Hello,World!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Symmetric Difference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Word Order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/WordOrder.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652819460493</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Treino">
+      <created>1652820571384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652820571384</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
