@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/URI/2761 - Entrada e Saída de Vários Tipos.py" beforeDir="false" afterPath="$PROJECT_DIR$/URI/2761 - Entrada e Saída de Vários Tipos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/URI/2763 - Entrada e Saída CPF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/URI/2764 - Entrada e Saída de Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/URI/2765 - Entrada e Saída com Virgula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/URI/2766 - Entrada e Saída Lendo e Pulando Nomes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,28 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects/PythonStudies" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.2762 - Entrada e Saída 6">
-    <configuration name="2758 - Entrada e Saída de Números Reais" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/URI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/2758 - Entrada e Saída de Números Reais.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2763 - Entrada e Saída CPF">
     <configuration name="2759 - Entrada e Saída de Carácter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +107,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2763 - Entrada e Saída CPF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/URI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/2763 - Entrada e Saída CPF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Word Order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2763 - Entrada e Saída CPF" />
         <item itemvalue="Python.2762 - Entrada e Saída 6" />
         <item itemvalue="Python.2761 - Entrada e Saída de Vários Tipos" />
         <item itemvalue="Python.Word Order" />
         <item itemvalue="Python.2759 - Entrada e Saída de Carácter" />
-        <item itemvalue="Python.2758 - Entrada e Saída de Números Reais" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652816454556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Treino">
+      <created>1652819460493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652819460493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
