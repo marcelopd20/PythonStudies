@@ -9,10 +9,10 @@ def convert(url):
 
     h, w = src.shape[:2]#tira medidas 
     prop = w/h #calcula proporção
-"""     #de acordo com o tamanho redimensiona o logo
+    #de acordo com o tamanho redimensiona o logo
     if w <= 300 and h <= 100:
         scaled = src
-    else: """
+    else:
         if prop <= (1/3):
             new_height = int(100)
             new_width = int((100*w)/h)
