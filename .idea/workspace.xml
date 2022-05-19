@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Mutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Whats Your Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/sWAP cASE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Find a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/String Validators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV/RedimensionaLogoCliente/conversor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV/RedimensionaLogoCliente/conversor.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OpenCV/RedimensionaLogoCliente/resize.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV/RedimensionaLogoCliente/resize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Mutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Mutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Whats Your Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Whats Your Name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,29 +47,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects/PythonStudies" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Strings">
-    <configuration name="1049 - Animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/1049 - Animal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.String Validators">
+    <configuration name="Find a string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +67,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Find a string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Mutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String Validators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/String Validators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,28 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sWAP cASE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/sWAP cASE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name=" Strings" type="tests" factoryName="Doctests" temporary="true">
+    <configuration name="Mutations" type="tests" factoryName="Doctests" temporary="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Mutations.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -152,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.String Validators" />
+        <item itemvalue="Python.Find a string" />
+        <item itemvalue="Python.Mutations" />
+        <item itemvalue="Python tests.Mutations" />
         <item itemvalue="Python.Strings" />
-        <item itemvalue="Python tests. Strings" />
-        <item itemvalue="Python.1049 - Animal" />
-        <item itemvalue="Python.sWAP cASE" />
-        <item itemvalue="Python.Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652820571384</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Treino">
+      <created>1652834591572</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652834591572</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Treino">
+      <created>1652834607397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652834607397</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
