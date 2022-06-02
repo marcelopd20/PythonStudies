@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="Treino">
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/a.txt" afterDir="false" />
+    <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Merge the Tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/The Minion Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/collectionsCounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/itertoolspermutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/itertoolsproduct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/polarcoordinates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2779 - Álbum da Copa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/estudo/collectionscounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/estudo/collectionsdefaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/estudo/itertoolspermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/estudo/itertoolsproduct.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/URI/---2769 - Linha de Montagem.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/---2769 - Linha de Montagem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +52,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects/PythonStudies" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PythonCourse" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -49,50 +62,13 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2775 - Preparando a Produção">
-    <configuration name="2774 - Precisão do Sensor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2774 - Precisão do Sensor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2775 - Preparando a Produção" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2775 - Preparando a Produção.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Alphabet Rangoli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonStudies\PlataformasDeCódigo\URI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DefaultDict Tutorial">
+    <configuration name="DefaultDict Tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Alphabet Rangoli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +89,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Captalize!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="collectionsdefaultdict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/collectionsdefaultdict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="itertoolspermutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/itertoolspermutation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="itertoolspermutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Captalize!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/itertoolspermutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String Formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="polarcoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/String Formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/polarcoordinates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2775 - Preparando a Produção" />
-        <item itemvalue="Python.Captalize!" />
-        <item itemvalue="Python.Alphabet Rangoli" />
-        <item itemvalue="Python.2774 - Precisão do Sensor" />
-        <item itemvalue="Python.String Formatting" />
+        <item itemvalue="Python.DefaultDict Tutorial" />
+        <item itemvalue="Python.collectionsdefaultdict" />
+        <item itemvalue="Python.polarcoordinates" />
+        <item itemvalue="Python.itertoolspermutations" />
+        <item itemvalue="Python.itertoolspermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -244,13 +262,27 @@
       <option name="project" value="LOCAL" />
       <updated>1653525629806</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Treino">
+      <created>1653873264270</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653873264271</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Treino">
+      <created>1653873273638</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653873273638</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Treino" />
     <MESSAGE value="unpacking" />
-    <option name="LAST_COMMIT_MESSAGE" value="unpacking" />
+    <MESSAGE value="Treino" />
+    <option name="LAST_COMMIT_MESSAGE" value="Treino" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

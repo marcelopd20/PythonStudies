@@ -27,10 +27,6 @@ while True:
         a2[n-1] += x2
         t = a1[0] if a1[0] < a2[0] else a2[0]
         idx = 1 if a1[0] < a2[0] else 2
-        for c in range(1, n-1):
-            if a1[c] > a2[c]:
-                if idx == eval(f'a[idx]'):
-
 
 
     except EOFError:
