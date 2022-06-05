@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Merge the Tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/The Minion Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/collectionsCounter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/itertoolspermutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/itertoolsproduct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/polarcoordinates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2779 - Álbum da Copa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/collectionscounter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/collectionsdefaultdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/itertoolspermutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/itertoolsproduct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/calendarModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/estudo/callendar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/URI/---2769 - Linha de Montagem.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/---2769 - Linha de Montagem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +56,28 @@
       <recent name="D:\PythonStudies\PlataformasDeCódigo\URI" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DefaultDict Tutorial">
+  <component name="RunManager" selected="Python.calendarModule">
+    <configuration name="2782 - Escadinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DefaultDict Tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +91,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calendarModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/calendarModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="callendar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/callendar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,76 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="itertoolspermutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/itertoolspermutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="itertoolspermutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/itertoolspermutations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="polarcoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonStudies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/polarcoordinates.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calendarModule" />
+        <item itemvalue="Python.callendar" />
         <item itemvalue="Python.DefaultDict Tutorial" />
+        <item itemvalue="Python.2782 - Escadinha" />
         <item itemvalue="Python.collectionsdefaultdict" />
-        <item itemvalue="Python.polarcoordinates" />
-        <item itemvalue="Python.itertoolspermutations" />
-        <item itemvalue="Python.itertoolspermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653873273638</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Treino">
+      <created>1654181177995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654181177995</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -47,9 +47,9 @@ Explanation
 'a' appeared  times in positions ,  and .
 'b' appeared  times in positions  and .
 In the sample problem, if 'c' also appeared in word group , you would print ."""
-"""from collections import defaultdict
+from collections import defaultdict
 
-n,m = (int(x) for x in input().split())
+"""n,m = (int(x) for x in input().split())
 d = defaultdict(list)
 for x in range(n):
     d['A'].append(input())
@@ -64,11 +64,10 @@ for x in d['B']:
     else:
         print(-1)
 """
-from collections import defaultdict
 
-n,m = (int(x) for x in input().split())
+n, m = (int(x) for x in input().split())
 d = defaultdict(list)
-for x in range(n):
-    d[input()].append(x+1)
-for x in range(m):
-    print(*d[input()] or [-1])
+for a in range(n):
+    d[input()].append(a+1)
+for a in range(m):
+    print(*d[input()] or -1)
