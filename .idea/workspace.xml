@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/calendarModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/callendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCV/aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/FindingThePercentage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Staircase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/aVeryBigSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/birthdayCakeCandles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/colletcionsNamedTuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/compareTheTriplets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/gradingStudents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/miniMaxSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/plusMinus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/simpleArraySum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/solveMeFirst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/timeConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/estudo/collectionsNamedTuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +67,8 @@
       <recent name="D:\PythonStudies\PlataformasDeCódigo\URI" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calendarModule">
-    <configuration name="2782 - Escadinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1176 - FIbonacci em Vetor">
+    <configuration name="1176 - FIbonacci em Vetor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/1176 - FIbonacci em Vetor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DefaultDict Tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1435 - Matriz Quadrada I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/DefaultDict Tutorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/1435 - Matriz Quadrada I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calendarModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1478 - Matriz Quadrada II - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/calendarModule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/1478 - Matriz Quadrada II - 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="callendar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1827 - Matriz Quadrada IV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/callendar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/1827 - Matriz Quadrada IV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="collectionsdefaultdict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2164 - Fibonacci Rápido" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/collectionsdefaultdict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2164 - Fibonacci Rápido.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calendarModule" />
-        <item itemvalue="Python.callendar" />
-        <item itemvalue="Python.DefaultDict Tutorial" />
-        <item itemvalue="Python.2782 - Escadinha" />
-        <item itemvalue="Python.collectionsdefaultdict" />
+        <item itemvalue="Python.1176 - FIbonacci em Vetor" />
+        <item itemvalue="Python.2164 - Fibonacci Rápido" />
+        <item itemvalue="Python.1827 - Matriz Quadrada IV" />
+        <item itemvalue="Python.1435 - Matriz Quadrada I" />
+        <item itemvalue="Python.1478 - Matriz Quadrada II - 2" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654181177995</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Treino">
+      <created>1654391223793</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654391223793</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
