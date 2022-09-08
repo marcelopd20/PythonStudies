@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3124133f-51d0-46dd-a5be-677c3edd44f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Integers Come in All Sizes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/OrderedDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/appleAndOranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/betweenTwoSets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/combinations_with_replacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/deque.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/discard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/divmod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/pillingUp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/pow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/union.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2783 - Figurinhas da Copa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estudo/orderedict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2786 - Piso da Escola.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2787 - Xadrez.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2791 - Feijão.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/URI/---2769 - Linha de Montagem.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/---2769 - Linha de Montagem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/PythonCourse" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -70,8 +59,8 @@
       <recent name="D:\PythonStudies\PlataformasDeCódigo\URI" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.union">
-    <configuration name="Collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2791 - Feijão">
+    <configuration name="2782 - Escadinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/Collections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2782 - Escadinha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="combinations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2785 - Pirâmide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/estudo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/estudo/combinations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2785 - Pirâmide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="combinations_with_replacement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2786 - Piso da Escola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/combinations_with_replacement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2786 - Piso da Escola.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="discard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2787 - Xadrez" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/discard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2787 - Xadrez.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="union" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2791 - Feijão" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlataformasDeCódigo/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/HackerRank/union.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlataformasDeCódigo/URI/2791 - Feijão.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.union" />
-        <item itemvalue="Python.discard" />
-        <item itemvalue="Python.combinations_with_replacement" />
-        <item itemvalue="Python.Collections" />
-        <item itemvalue="Python.combinations" />
+        <item itemvalue="Python.2791 - Feijão" />
+        <item itemvalue="Python.2787 - Xadrez" />
+        <item itemvalue="Python.2786 - Piso da Escola" />
+        <item itemvalue="Python.2785 - Pirâmide" />
+        <item itemvalue="Python.2782 - Escadinha" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659880681339</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Treino">
+      <created>1661207210410</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661207210410</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

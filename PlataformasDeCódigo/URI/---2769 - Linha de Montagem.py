@@ -15,18 +15,37 @@ Saída
 A saída deve mostrar o tempo mínimo gasto na produção."""
 while True:
     try:
-        t = []
         n = int(input())
-        e1, e2 = list(map(int, input().split()))[:2]
-        a1, a2 = (list(map(int, input().split()))[:n] for _ in range(2))
-        t1, t2 = (list(map(int, input().split()))[:n-1] for _ in range(2))
-        x1, x2 = list(map(int, input().split()))[:2]
+        e1, e2 = list(map(int, input().split()))
+        a1 = list(map(int, input().split()))
+        a2 = list(map(int, input().split()))
         a1[0] += e1
         a2[0] += e2
-        a1[n-1] += x1
-        a2[n-1] += x2
         t = a1[0] if a1[0] < a2[0] else a2[0]
-        idx = 1 if a1[0] < a2[0] else 2
+        idx = True if a1[0] < a2[0] else False
+        t1 = list(map(int, input().split()))
+        t2 = list(map(int, input().split()))
+        x1, x2 = list(map(int, input().split()))
+        a1[n-1] += x1
+        a2[len(a2)-1] += x2
+        t3 = 0
+        for x in range(0,n-1):
+            print(f'idx: {idx}, t3: {t3}, x+1: {x+1}, t: {t},\na1[x+1]: {a1[x+1]}, a2[x + 1] + t1[x]: {a2[x + 1] + t1[x]},\na2[x + 1]: {a2[x + 1]}, a1[x + 1] + t2[x]: {a1[x + 1] + t2[x]}\n\n')
+            if idx:
+                if a1[x + 1] <= a2[x + 1] + t1[x]:
+                    t += a1[x+1]
+                else:
+                    t += a2[x+1]+t1[x]
+                    idx = False
+            else:
+                if a2[x + 1] <= a1[x + 1] + t2[x]:
+                    t += a2[x+1]
+                else:
+                    t += a1[x + 1] + t2[x]
+                    idx = True
+            #print(t-t3)
+            t3 = t
+        #print(t)
 
 
     except EOFError:
